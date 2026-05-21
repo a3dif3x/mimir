@@ -1,6 +1,6 @@
 # mimir
 
-> *In Norse mythology, Mimir is the keeper of all knowledge. This repo is basically the same thing, but for me.*
+> *In Norse mythology, Mimir is the keeper of all knowledge. This repo is basically the same thing, but for MEEEEEEE.*
 
 ---
 
